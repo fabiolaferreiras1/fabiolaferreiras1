@@ -1,16 +1,54 @@
-## Hi there 👋
+# Olá, eu sou Fabíola Ferreira
 
-<!--
-**fabiolaferreiras1/fabiolaferreiras1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Tecnologia da Informação na Universidade Federal Rural do Semi-Árido (UFERSA).  
+💡 Apaixonada por fundamentos da computação, lógica de programação, estruturas algorítmicas e análise de código.  
+💻 Explorando o mundo da programação com foco em C e Python.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre Mim
+
+- 👩‍🎓 Cursando: Bacharelado em Tecnologia da Informação (UFERSA)
+- 📚 Foco em algoritmos, estruturas de dados e raciocínio lógico
+- 💻 Linguagens principais: C e Python
+- 👩‍💻 Participante ativa em iniciativas para inclusão de mulheres na tecnologia
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+| 💻 Linguagens / Ferramentas | 🚀 Nível de Conhecimento     |
+|-----------------------------|------------------------------|
+| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | Intermediário |
+| ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen) | Iniciante |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | Fundamentos sólidos |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | Fundamentos sólidos |
+
+---
+
+## 📌 Conhecimentos Atuais
+
+- 🧠 Lógica de programação e estruturas de controle
+- 🔍 Algoritmos básicos e manipulação de variáveis
+- 📁 Versionamento com Git e GitHub
+- 🧾 Escrita técnica com LaTeX
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiolaferreiras1&show_icons=true&theme=tokyonight&count_private=true&title_color=ff79c6&icon_color=ff79c6&text_color=f8f8f2&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolaferreiras1&layout=compact&theme=tokyonight&title_color=bd93f9&text_color=f8f8f2&bg_color=0d1117" />
+</p>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+  <a href="mailto:fabiola78ferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/fabíola-ferreiras" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
+
+---
