@@ -11,7 +11,6 @@
 - 👩‍🎓 Cursando: Bacharelado em Tecnologia da Informação (UFERSA)
 - 📚 Foco em algoritmos, estruturas de dados e raciocínio lógico
 - 💻 Linguagens principais: C e Python
-- 👩‍💻 Participante ativa em iniciativas para inclusão de mulheres na tecnologia
 
 ---
 
@@ -29,7 +28,7 @@
 ## 📌 Conhecimentos Atuais
 
 - 🧠 Lógica de programação e estruturas de controle
-- 🔍 Algoritmos básicos e manipulação de variáveis
+- 🔍 Algoritmos e estruturas de dados
 - 📁 Versionamento com Git e GitHub
 - 🧾 Escrita técnica com LaTeX
 
