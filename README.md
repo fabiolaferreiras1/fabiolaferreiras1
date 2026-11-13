@@ -1,54 +1,99 @@
-# Olá, eu sou Fabíola Ferreira
+<div align="center">
 
-🎓 Estudante de Tecnologia da Informação na Universidade Federal Rural do Semi-Árido (UFERSA).  
-💡 Apaixonada por fundamentos da computação, lógica de programação, estruturas algorítmicas e análise de código.  
-💻 Explorando o mundo da programação com foco em C e Python.
+# 👩🏻‍💻 Olá, eu sou Fabíola Ferreira!
+
+### Estudante de Tecnologia da Informação | UFERSA
+
+Explorando a computação, desenvolvendo habilidades e transformando conhecimento em projetos. 🚀
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-fabiolaferreiras1-181717?style=for-the-badge&logo=github)](https://github.com/fabiolaferreiras1)
+
+</div>
 
 ---
 
-## 🧠 Sobre Mim
+## 🌱 Sobre mim
 
-- 👩‍🎓 Cursando: Bacharelado em Tecnologia da Informação (UFERSA)
-- 📚 Foco em algoritmos, estruturas de dados e raciocínio lógico
-- 💻 Linguagens principais: C e Python
+Sou estudante do **Bacharelado em Tecnologia da Informação (BTI)** na Universidade Federal Rural do Semi-Árido (UFERSA).
+
+Tenho interesse em compreender os fundamentos da computação, explorar soluções por meio da programação e desenvolver meu raciocínio lógico e capacidade de resolução de problemas.
+
+Atualmente, direciono meus estudos principalmente para:
+
+- 🧠 Lógica de programação e fundamentos da computação;
+- 📊 Algoritmos e estruturas de dados;
+- 💻 Desenvolvimento com C e Python;
+- 🔍 Análise de código e resolução de problemas;
+- 📝 Escrita técnica e produção acadêmica com LaTeX.
+
+Também sou integrante do **CILadies**, projeto de extensão voltado à inclusão e ao incentivo da participação feminina na área de Tecnologia da Informação.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-| 💻 Linguagens / Ferramentas | 🚀 Nível de Conhecimento     |
-|-----------------------------|------------------------------|
-| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | Intermediário |
-| ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen) | Intermediário |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | Fundamentos sólidos |
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | Fundamentos sólidos |
+### Linguagens de Programação
+
+<div>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</div>
+
+### Ferramentas e Tecnologias
+
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+</div>
 
 ---
 
-## 📌 Conhecimentos Atuais
+## 📚 Áreas de Estudo
 
-- 🧠 Lógica de programação e estruturas de controle
-- 🔍 Algoritmos e estruturas de dados
-- 📁 Versionamento com Git e GitHub
-- 🧾 Escrita técnica com LaTeX
+| Área | Conhecimentos |
+|:---|:---|
+| 🧠 Fundamentos | Lógica de programação e raciocínio computacional |
+| 📊 Algoritmos | Estruturas de controle, recursão e análise de algoritmos |
+| 🌳 Estruturas de Dados | Listas, árvores e outras estruturas fundamentais |
+| 💻 Programação | Linguagens C e Python |
+| 🔧 Versionamento | Git e GitHub |
+| 📝 Escrita Técnica | LaTeX e produção acadêmica |
 
 ---
 
 ## 📈 GitHub Insights
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiolaferreiras1&show_icons=true&theme=tokyonight&count_private=true&title_color=ff79c6&icon_color=ff79c6&text_color=f8f8f2&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiolaferreiras1&layout=compact&theme=tokyonight&title_color=bd93f9&text_color=f8f8f2&bg_color=0d1117" alt="Top Languages"/>
-</p>
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="90%"/>
+</div>
 
 ---
 
-## 📫 Contato
-
-Caso deseje entrar em contato comigo, utilize:
+## 🌐 Vamos nos conectar?
 
 <div align="center">
-  <a href="mailto:fabiola78ferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/fabíola-ferreiras" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/fabiola.ferreira_1/profilecard/?igsh=MXR3bnVydzZ3enlhMA==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+<a href="mailto:fabiola78ferreira@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/fab%C3%ADola-ferreiras" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.instagram.com/fabiola.ferreira_1/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *Sempre aprendendo, experimentando e construindo novos conhecimentos.*
+
 </div>
